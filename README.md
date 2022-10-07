@@ -1,8 +1,10 @@
 # OASW-Concept-Drift-Detection-and-Adaptation
 
-This is the code for the paper entitled "**[A Lightweight Concept Drift Detection and Adaptation Framework for IoT Data Streams](https://arxiv.org/pdf/2104.10529.pdf)**" published in **IEEE Internet of Things Magazine**.  
+This is the code for the paper entitled "**[A Lightweight Concept Drift Detection and Adaptation Framework for IoT Data Streams](https://arxiv.org/pdf/2104.10529.pdf)**" published in **IEEE Internet of Things Magazine**, doi: [10.1109/IOTM.0001.2100012](https://ieeexplore.ieee.org/document/9427288).  
 Authors: Li Yang and Abdallah Shami  
 Organization: The Optimized Computing and Communications (OC2) Lab, ECE Department, Western University
+
+A complete **tutorial code** for the comprehensive and complete pipeline for **concept drift, online machine learning, and data stream analytics**, including dynamic data pre-processing, drift-based dynamic feature selection, dynamic model learning & selection, and online ensemble models, can be found in: [MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation](https://github.com/Western-OC2-Lab/MSANA-Online-Data-Stream-Analytics-And-Concept-Drift-Adaptation)
 
 Another **tutorial code** for **concept drift, online learning, and data stream analytics** can be found in: [PWPAE-Concept-Drift-Detection-and-Adaptation](https://github.com/Western-OC2-Lab/PWPAE-Concept-Drift-Detection-and-Adaptation)
 
@@ -36,13 +38,13 @@ NSL-KDD dataset, a popular network traffic dataset for intrusion detection probl
 Please feel free to contact us for any questions or cooperation opportunities. We will be happy to help.
 * Email: [liyanghart@gmail.com](mailto:liyanghart@gmail.com) or [Abdallah.Shami@uwo.ca](mailto:Abdallah.Shami@uwo.ca)
 * GitHub: [LiYangHart](https://github.com/LiYangHart) and [Western OC2 Lab](https://github.com/Western-OC2-Lab/)
-* LinkedIn: [Li Yang](https://www.linkedin.com/in/li-yang-65a190176/)  
+* LinkedIn: [Li Yang](https://www.linkedin.com/in/li-yang-phd-65a190176/)  
 * Google Scholar: [Li Yang](https://scholar.google.com.eg/citations?user=XEfM7bIAAAAJ&hl=en) and [OC2 Lab](https://scholar.google.com.eg/citations?user=oiebNboAAAAJ&hl=en)
 
 ## Citation
 If you find this repository useful in your research, please cite this article as:  
 
-L. Yang and A. Shami, “A Lightweight Concept Drift Detection and Adaptation Framework for IoT Data Streams,” *IEEE Internet of Things Magazine*, 2021, doi: 10.1109/IOTM.0001.2100012.
+L. Yang and A. Shami, "A Lightweight Concept Drift Detection and Adaptation Framework for IoT Data Streams," in IEEE Internet of Things Magazine, vol. 4, no. 2, pp. 96-101, June 2021, doi: 10.1109/IOTM.0001.2100012.
 
 ```
 @ARTICLE{9427288,
@@ -50,8 +52,8 @@ L. Yang and A. Shami, “A Lightweight Concept Drift Detection and Adaptation Fr
   journal={IEEE Internet of Things Magazine}, 
   title={A Lightweight Concept Drift Detection and Adaptation Framework for IoT Data Streams}, 
   year={2021},
-  volume={},
-  number={},
-  pages={1-6},
+  volume={4},
+  number={2},
+  pages={96-101},
   doi={10.1109/IOTM.0001.2100012}}
 ```
